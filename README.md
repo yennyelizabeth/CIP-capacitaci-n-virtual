@@ -11,7 +11,7 @@ Entre los servicios que ofrece está la de organizar actividades: talleres, curs
 
 La web de la entidad ( http://www.cip.org.pe/ ) , tiene una sección de eventos ( http://www.cip.org.pe/eventos/ ) y para acceder a talleres se accede através del buscador por ejemplo "taller" (http://www.cip.org.pe/?s=taller) . 
 
-Cada consejo departamental organiza y programa actividades, y tienen una manera particular de presentarla en su web descentralizada, siendo diferente entre una y otra.
+Cada consejo departamental tiene su propia web ejemplo el Consejo Departamentl de Lima ( http://cdlima.org.pe/ ), el Consejo Departamental de Ica ( http://www.cipica.org.pe/). Cada consejo  organiza y programa actividades, y tienen una manera particular de presentarla en su web, siendo diferente entre una y otra.
 
 Se hace necesario crear una experiencia de usuario para los profesionales de ingeniería y otros interesados para el acceso a diferentes actividades que el CIP organiza y programa para su uso y beneficio.
 
@@ -50,7 +50,7 @@ a. En el proceso de descubrimiento, se identificaron requisitos, los cuales se i
 </p>
 
 
-b. Formulación de la situación actual Se construyó un arquetipo llamado Marco para facilitar la formulación de la situación inicial actual, para comprender posteriormente la problemática alrededor. .
+b. Formulación de la situación actual Se construyó un arquetipo llamado Carlos para facilitar la formulación de la situación inicial actual, para comprender posteriormente la problemática alrededor.
 <p align="center">
  
 <img alt="" title="" src="https://user-images.githubusercontent.com/31896385/58055472-7942bf00-7b23-11e9-8997-964686552efe.PNG" width="700">
