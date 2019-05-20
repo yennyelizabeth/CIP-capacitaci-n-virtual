@@ -27,7 +27,7 @@ Diseñar la experiencia de usuario para los usuarios del CIP para que accedan a 
 - Promover la organización de actividades ( expositores y asistentes).
 
 ## Solución
-
+* Actualmente es un proyecto libre personal en estado de construcción al 30%.
 <p align="center">
 <img alt="" title="" src="https://user-images.githubusercontent.com/31896385/58054880-a55d4080-7b21-11e9-8303-f9785b2b8cfb.png" width="500">  
 </p>
